@@ -35,3 +35,6 @@ hollie-mengert.ckpt filter=lfs diff=lfs merge=lfs -text
 Collage[[:space:]]Maker-21-Oct-2022-11.37-PM.jpg filter=lfs diff=lfs merge=lfs -text
 Collage[[:space:]]Maker-21-Oct-2022-11.33-PM.jpg filter=lfs diff=lfs merge=lfs -text
 Collage[[:space:]]Maker-21-Oct-2022-11.38-PM.jpg filter=lfs diff=lfs merge=lfs -text
+generated-portraits.jpg filter=lfs diff=lfs merge=lfs -text
+generated-landscapes1.jpg filter=lfs diff=lfs merge=lfs -text
+generated-landscapes2.jpg filter=lfs diff=lfs merge=lfs -text
